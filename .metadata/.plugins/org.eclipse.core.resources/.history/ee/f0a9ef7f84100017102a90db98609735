@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_7PhfcBCDEeezEOEW75DMjQ" id="_7PaxwBCDEeezEOEW75DMjQ" label="Java_test" purpose="Java_test" description="Java_test" creationDate="2017-03-24T16:50:46.052+0530" modificationDate="2017-03-24T16:50:46.988+0530" version="0.1" statusCode="" item="_7PhfchCDEeezEOEW75DMjQ" displayName="Java_test">
+    <author href="../talend.project#_Tx3CQBCDEeezEOEW75DMjQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_7PhfcRCDEeezEOEW75DMjQ" path="" locked="true" lockDate="2017-03-24T16:50:47.830+0530">
+    <locker href="../talend.project#_Tx3CQBCDEeezEOEW75DMjQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_7PhfchCDEeezEOEW75DMjQ" property="_7PhfcBCDEeezEOEW75DMjQ" state="_7PhfcRCDEeezEOEW75DMjQ">
+    <process href="Java_test_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
